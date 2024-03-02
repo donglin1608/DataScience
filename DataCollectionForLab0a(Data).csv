@@ -1,0 +1,343 @@
+,Collected by:,Alias(initials_####),Height(cm),Weight(kg),AVG_Daily_Number_Steps,Average_Heart_Rate(bpm),Gender(M/F),College,Student_Clsassification,Country_of_Origin
+1,Brook Hatia,LH,167.64,83,"8,800",53,M,SE,Senior,Ethiopia
+2,Brook Hatia,ML,187.96,84,"7,000",58,F,SE,Junior,USA
+3,Brook Hatia,MM,182.88,54,0,0,M,SE,Senior,Myanmar
+4,Brook Hatia,JB,171.00,60,"6,500",49,M,SE,Junior,USA
+5,Brook Hatia,AL,170.18,93,"5,483",61,M,SE,Graduate,Mexico
+6,Brook Hatia,AT,190.50,49,"6,890",74,M,SE,Junior,USA
+7,Brook Hatia,BT,165.10,85,"10,000",66,F,TH,Senior,Uganda
+8,Brook Hatia,RK,208.28,71,"11,389",76,M,SE,Junior,UK
+9,Brook Hatia,RA,170.18,65,"3,478",80,M,TH,Senior,India
+10,Brook Hatia,QJ,167.64,66,"6,790",61,M,TH,Doctoral,Ethiopia
+11,Brook Hatia,TD,165.10,68,"8,800",68,M,SE,Senior,Malaysia
+12,Brook Hatia,JB,175.00,65,"8,700",70,M,SE,Senior,USA
+13,Brook Hatia,HJ,177.80,89,"8,000",67,M,TH,Senior,USA
+14,Brook Hatia,CO,172.00,63,"8,400",56,F,SE,Junior,China
+15,Brook Hatia,AW,166.00,84,"9,800",82,M,ED,Sophomore,USA
+16,Brook Hatia,SU,181.00,82,"7,600",68,M,SE,Senior,USA
+17,Brook Hatia,CJ,170.00,60,"10,000",74,M,HS,Junior,China
+18,Brook Hatia,HW,179.00,77,"5,400",70,M,SE,Junior,USA
+19,Mengen Zhao,JS,175.00,70,"8,000",75,M,HS,Sophomore,USA
+20,Mengen Zhao,EM,162.00,55,"6,000",80,F,ED,Sophomore,USA
+21,Mengen Zhao,RK,180.00,78,"10,000",72,M,AC,Freshman,UK
+22,Mengen Zhao,RA,170.20,64,"2,298",62,M,SE,Junior,India
+23,Mengen Zhao,BH,156.00,59,"10,000",70,M,SE,Senior,Ethiopia
+24,Mengen Zhao,MZ,171.00,61,"8,000",73,M,SE,Senior,China
+25,Mengen Zhao,SD,168.00,60,"7,500",78,F,TH,Freshman,India
+26,Mengen Zhao,YH,178.00,73,"9,500",74,M,ED,Junior,China
+27,Mengen Zhao,SY,181.00,68,"7,400",76,M,AC,Junior,China
+28,Mengen Zhao,CJ,170.00,60,"10,000",74,M,HS,Junior,China
+29,Mengen Zhao,AW,175.00,70,"9,632",68,M,SE,Senior,UK
+30,Mengen Zhao,SU,180.34,82,"5,000",54,M,SE,Senior,USA
+31,Mengen Zhao,LF,167.00,63,"7,200",79,F,HS,Sophomore,Mexico
+32,Mengen Zhao,DN,169.00,62,"6,530",63,M,ED,Senior,Mexico
+33,Mengen Zhao,KM,179.00,54,"8,720",60,M,SE,Senior,Myanmar
+34,Mengen Zhao,SJ,176.00,74,"7,990",75,M,BU,Junior,USA
+35,Mengen Zhao,AL,170.18,93,"4,548",61,M,SE,Sophomore,Ethiopia
+36,Mengen Zhao,LM,167.64,69,"7,683",70,M,BU,Senior,USA
+37,Reuben Aby,MZ,61.00,61,"9,005",68,M,SE,Senior,China
+38,Reuben Aby,EA,175.26,130.04,"17,000",72,M,AC,Senior,USA
+39,Reuben Aby,NF,177.80,99.79,"20,000",70,M,TH,Junior,USA
+40,Reuben Aby,OK,182.88,130.64,"11,000",78,M,SE,Senior,UAE
+41,Reuben Aby,RA,170.18,170.18,"11,500",62,M,ED,Graduate,India
+42,Reuben Aby,A.C,175.26,93.44,"14,000",67,M,BU,Senior,USA
+43,Reuben Aby,R.M,152.40,65,"12,000",70,F,SE,Junior,India
+44,Reuben Aby,J.F,185.42,79.37,"14,806",59,M,SE,Junior,USA
+45,Reuben Aby,VG,152.40,62,"10,000",60,F,SE,Junior,India
+46,Reuben Aby,JM,187.96,109.77,"10,000",67,M,BU,Junior,USA
+47,Reuben Aby,Z.H,175.26,68.04,"8,000",63,M,TH,Junior,USA
+48,Reuben Aby,B.O,164.00,75,"9,000",61,F,AC,Sophomore,Brazil
+49,Reuben Aby,RC,161.00,55,"11,000",68,F,SE,Junior,Switzerland
+50,Reuben Aby,SF,182.88,99.79,"20,000",60,M,BU,Graduate,USA
+51,Reuben Aby,JG,170.18,81.65,"16,000",74,M,AC,Junior,Peru
+52,Reuben Aby,WPG,190.50,108.86,"11,000",54,M,SE,Senior,USA
+53,Samuel Udall,RA,170.20,64,"5,500",62,M,SE,Junior,India
+54,Samuel Udall,BH,156.00,59,"9,000",70,M,SE,Senior,Ethiopia
+55,Samuel Udall,MZ,171.00,61,"7,500",73,M,SE,Senior,China
+56,Samuel Udall,JB,178.00,60,"9,800",57,M,SE,Senior,USA
+57,Samuel Udall,PB,186.00,75,"7,600",62,M,SE,Senior,USA
+58,Samuel Udall,KM,171.00,62,"8,000",56,M,SE,Senior,USA
+59,Samuel Udall,BG,152.00,46,"11,000",52,F,SE,Junior,USA
+60,Samuel Udall,JRB,175.00,58,"9,000",48,M,SE,Junior,USA
+61,Samuel Udall,EM,148.00,44,"9,200",53,F,SE,Freshman,USA
+62,Samuel Udall,DC,176.00,64,"4,800",61,M,BU,Sophomore,S Korea
+63,Samuel Udall,CA,156.00,53,"8,900",54,M,SE,Junior,USA
+64,Samuel Udall,MR,150.00,49,"7,500",55,F,ED,Sophomore,USA
+65,Samuel Udall,KE,146.00,46,"6,000",53,F,SE,Freshman,USA
+66,Samuel Udall,DN,160.00,57,"6,800",58,M,SE,Sophomore,Mexico
+67,Samuel Udall,BJ,174.00,76,"8,800",57,M,BU,Junior,UK
+68,Samuel Udall,MLK,162.00,69,"9,000",54,M,SE,Graduate,USA
+69,Samuel Udall,AW,178.00,76,"8,000",58,M,SE,Graduate,USA
+70,Samuel Udall,SJ,176.00,74,"7,990",75,M,BU,Junior,USA
+71,Samuel Udall,AL,170.18,93,"4,548",61,M,SE,Sophomore,Ethiopia
+72,Toluwanimi Olufawo,MW,164.59,56.7,"2,000",70,F,SE,Senior,The Bahamas
+73,Toluwanimi Olufawo,ES,167.64,76.6,"8,000",84,F,BU,Senior,Uganda
+74,Toluwanimi Olufawo,JS,170.69,72.8,"20,000",145,M,SE,Sophomore,Kenya
+75,Toluwanimi Olufawo,JN,173.74,102.9,"10,000",130,M,SE,Freshman,Nigeria
+76,Toluwanimi Olufawo,IS,176.78,81.2,"8,000",90,M,SE,Graduate,Nigeria
+77,Toluwanimi Olufawo,LO,179.83,86.2,"4,000",85,M,SE,Graduate,Nigeria
+78,Toluwanimi Olufawo,JP,179.83,72.7,"13,000",68,M,BU,Freshman,USA
+79,Toluwanimi Olufawo,JL,177.80,78.01,"9,908",61,M,ED,Graduate,St. Vincent
+80,Toluwanimi Olufawo,MC,172.00,65,"4,792",80,M,TH,Graduate,Nigeria
+81,Toluwanimi Olufawo,TA,167.64,108,"8,513",75,F,ED,Graduate,Nigeria
+82,Toluwanimi Olufawo,KI,179.83,85.72,"8,500",85,M,HS,Senior,USA
+83,Toluwanimi Olufawo,JL,166.00,70,"3,000",65,F,SE,Junior,NIGERIA
+84,Toluwanimi Olufawo,SO,188.97,81.2,"7,000",78,M,BU,Freshman,USA
+85,Toluwanimi Olufawo,HG,169.00,74,"5,000",80,M,SE,Sophomore,UGANDA
+86,Toluwanimi Olufawo,RA,180.00,65,"12,000",80,M,SE,Graduate,KOREA
+87,Toluwanimi Olufawo,TO,167.64,69,"9,000",74,F,ED,Senior,GHANA
+88,Toluwanimi Olufawo,AH,168.00,79,"7,500",90,F,TH,Junior,USA
+89,Toluwanimi Olufawo,UU,157.00,79,"9,400",80,F,SE,Senior,NIGERIA
+90,Alex Garcia,MG,162.56,68,"10,000",65,F,HS,Senior,MEX
+91,Alex Garcia,HG,180.34,104,"10,000",65,M,HS,Senior,MEX
+92,Alex Garcia,JG,180.34,77,"10,000",76,M,HS,senior,USA
+93,Alex Garcia,JR,180.00,77,"12,000",77,M,ED,Senior,usa
+94,Alex Garcia,EB,165.00,60,"8,000",65,F,BU,Senior,usa
+95,Alex Garcia,MM,165.00,65,"10,000",67,M,TH,Graduate,USA
+96,Alex Garcia,AM,162.56,65,"9,000",78,F,HS,Senior,usa
+97,Alex Garcia,AB,165.00,64,"13,000",66,M,HS,Senior,USA
+98,Alex Garcia,JS,162.56,60,"10,000",66,F,BU,Senior,USA
+99,Alex Garcia,PC,162.56,63,"12,000",75,F,BU,Senior,USA
+100,Alex Garcia,MB,176.00,72,"8,000",56,M,BU,Senior,USA
+101,Alex Garcia,ZT,200.00,80,"13,000",63,M,ED,Senior,USA
+102,Alex Garcia,DC,166.00,65,"7,000",65,M,ED,Senior,USA
+103,Alex Garcia,DF,172.00,74,"7,000",70,F,ED,Senior,USA
+104,Alex Garcia,BH,168.00,67,"6,000",61,F,HS,Senior,USA
+105,Alex Garcia,BJ,178.00,75,"12,000",58,M,ED,Senior,USA
+106,Alex Garcia,GH,160.00,60,"15,000",59,F,ED,Senior,USA
+107,Alex Garcia,NL,155.00,58,"10,000",70,M,AC,Senior,USA
+108,Donglin Xiong,DC,182.00,79,"10,000",50,M,BU,freshman,USA
+109,Donglin Xiong,P,201.00,56,"1,800",70,M,BU,Junior,USA
+110,Donglin Xiong,NJ,170.00,119,"9,000",77,F,SE,Junior,USA
+111,Donglin Xiong,PR,155.00,56,"10,000",77,F,BU,Sophomore,Nanya
+112,Donglin Xiong,JS,176.00,72,"20,000",45,M,SE,Freshman,Jamaica
+113,Donglin Xiong,AG,173.00,58,"10,000",75,F,HS,Sophomore,USA
+114,Donglin Xiong,T.M,176.00,57,"11,000",71,M,TH,Freshman,USA
+115,Donglin Xiong,AR,173.00,56,"12,000",72,F,BU,Freshman,USA
+116,Donglin Xiong,LC,182.00,73,"14,200",47,M,BU,Freshman,USA
+117,Donglin Xiong,MS,160.00,52,"15,000",74,F,HS,Freshman,USA
+118,Donglin Xiong,BO,167.00,52,"9,000",88,F,AC,Freshman,USA
+119,Donglin Xiong,AB,185.00,74,"15,000",67,M,AC,Senior,USA
+120,Donglin Xiong,MW,164.00,58,"9,000",76,F,TH,Sophomore,USA
+121,Donglin Xiong,PM,161.00,68,"10,000",77,F,TH,Sophomore,USA
+122,Donglin Xiong,AB,170.00,54,"11,000",78,F,BU,Freshman,USA
+123,Donglin Xiong,KS,164.00,63,"9,494",72,F,ED,Sophomore,USA
+124,Donglin Xiong,AQ,124.00,47,"11,000",54,F,AC,Sophomore,USA
+125,Donglin Xiong,PK,158.00,57,"8,000",60,M,AC,Freshman,USA
+126,Tamaranlayifa Onitsha,TJ,190.00,80,"10,000",70,M,BU,Junior,Nigeria
+127,Tamaranlayifa Onitsha,CN,164.00,68,"7,400",64,M,SE,Senior,Nigeria
+128,Tamaranlayifa Onitsha,TO,167.00,63,"4,500",68,F,SE,Graduate,Nigeria
+129,Tamaranlayifa Onitsha,SP,174.00,81,0,0,M,AC,Junior,USA
+130,Tamaranlayifa Onitsha,RS,170.00,72,"9,000",71,M,ED,Senior,India
+131,Tamaranlayifa Onitsha,OO,168.00,74,"8,700",69,M,SE,Graduate,USA
+132,Tamaranlayifa Onitsha,IK,166.00,81,0,0,M,ED,Graduate,USA
+133,Tamaranlayifa Onitsha,VO,161.00,67,"5,600",79,F,TH,Graduate,UK
+134,Tamaranlayifa Onitsha,EB,184.00,74,"8,250",71,M,AC,Junior,Nigeria
+135,Tamaranlayifa Onitsha,KF,164.00,72,"6,355",68,F,TH,Junior,Ghana
+136,Tamaranlayifa Onitsha,KB,168.00,88,"4,200",74,M,AC,Junior,Ghana
+137,Tamaranlayifa Onitsha,RO,159.00,71,"6,610",76,F,SE,Senior,Zimbabwe
+138,Tamaranlayifa Onitsha,BW,161.00,66,"7,100",69,F,AC,Junior,USA
+139,Tamaranlayifa Onitsha,KC,167.00,64,0,0,F,BU,Graduate,Peru
+140,Tamaranlayifa Onitsha,ST,164.00,69,"11,410",64,M,TH,Senior,Uganda
+141,Tamaranlayifa Onitsha,SS,168.00,62,"5,100",62,F,BU,Junior,Niger 
+142,Tamaranlayifa Onitsha,DJ,165.00,70,"6,710",65,M,SE,Senior,USA
+143,Tamaranlayifa Onitsha,CP,169.00,67,"8,250",61,M,BU,Junior,USA
+144,Ethan Hanna,JB,165.10,61.25,"10,000",64,F,SE,Senior,Ghana
+145,Ethan Hanna,AL,170.18,58.51,"10,000",61,F,AC,Sophomore,USA
+146,Ethan Hanna,MM,175.26,58.06,"10,000",62,F,SE,Junior,USA
+147,Ethan Hanna,DB,177.80,73.03,"10,000",57,M,HS,Sophomore,USA
+148,Ethan Hanna,RC,182.88,70.76,"10,000",56,M,BU,Sophomore,USA
+149,Ethan Hanna,HF,180.34,69.85,"10,000",61,M,BU,Senior,USA
+150,Ethan Hanna,SG,187.96,71.67,"10,000",59,M,HS,Sophomore,USA
+151,Ethan Hanna,JG,172.72,70.76,"10,000",62,M,AC,Senior,USA
+152,Ethan Hanna,RH,170.18,59.87,"10,000",62,M,AC,Junior,USA
+153,Ethan Hanna,KI,175.26,63.96,"10,000",58,M,BU,Sophomore,USA
+154,Ethan Hanna,WI,170.18,61.69,"10,000",63,M,TH,Senior,USA
+155,Ethan Hanna,KJ,175.26,79.38,"10,000",56,M,HS,Graduate,USA
+156,Ethan Hanna,JM,167.64,58.51,"10,000",58,M,BU,Sophomore,USA
+157,Ethan Hanna,AO,180.34,68.5,"10,000",57,M,BU,Junior,USA
+158,Ethan Hanna,FS,165.10,58.97,"10,000",59,M,HS,Sophomore,USA
+159,Ethan Hanna,DS,165.10,61.24,"10,000",58,M,HS,Graduate,USA
+160,Ethan Hanna,KS,195.58,74.83,"10,000",61,M,BU,Junior,The Bahamas
+161,Ethan Hanna,JS,193.04,99.79,"10,000",58,M,HS,Graduate,USA
+162,Ethan Hanna,KT,195.58,95.26,"10,000",57,M,HS,Graduate,Honduras
+163,Hunter Grisham,LG,172.00,78.95,"11,000",63,M,BU,Sophomore,USA
+164,Hunter Grisham,ZJ,186.00,69.83,"9,000",69,M,BU,Sophomore,USA
+165,Hunter Grisham,RH,169.00,90.23,"8,500",59,M,TH,Junior,Ghana
+166,Hunter Grisham,DB,175.00,93.98,"13,000",70,M,SE,Freshman,Myanmar
+167,Hunter Grisham,LN,191.00,86.89,"10,000",67,F,SE,Senior,USA
+168,Hunter Grisham,AH,182.00,68.21,"11,000",63,F,TH,Junior,USA
+169,Hunter Grisham,DC,181.00,71.07,"12,000",60,F,AC,Junior,USA
+170,Hunter Grisham,GV,174.00,80.45,"9,500",72,M,ED,Sophomore,USA
+171,Hunter Grisham,IB,177.00,76.49,"10,500",69,M,AC,Sophomore,India
+172,Hunter Grisham,JC,166.00,59.68,"14,000",62,M,SE,Freshman,USA
+173,Hunter Grisham,JM,187.00,88.9,"13,000",58,M,HS,Sophomore,USA
+174,Hunter Grisham,JM,193.00,90.49,"9,000",65,F,BU,Junior,USA
+175,Hunter Grisham,JR,185.00,86.22,"12,000",66,F,HS,Senior,Vietnam
+176,Hunter Grisham,NS,174.00,79.34,"11,500",68,M,ED,Sophomore,USA
+177,Hunter Grisham,WD,179.00,81.2,"8,000",73,M,AC,Sophomore,USA
+178,Hunter Grisham,CB,184.00,70.96,"7,000",63,M,HS,Freshman,Myanmar
+179,Hunter Grisham,AJ,168.00,76.78,"11,000",61,M,SE,Junior,USA
+180,Hunter Grisham,ES,181.00,89.26,"8,500",67,M,BU,Sophomore,USA
+181,Queena Lee Chin,VG,152.40,60,"10,000",62,F,SE,Junior,India
+182,Queena Lee Chin,MR,153.00,85,"13,000",75,F,SE,Junior,India
+183,Queena Lee Chin,JB,173.00,70,"10,000",86,M,SE,Sophomore,South Africa
+184,Queena Lee Chin,SY,180.00,74,"8,000",77,M,SE,Junior,South Korea
+185,Queena Lee Chin,PT,175.00,55,"8,500",75,F,BU,Junior,USA
+186,Queena Lee Chin,GH,160.00,80,"10,000",68,F,TH,Sophomore,Japan
+187,Queena Lee Chin,JE,185.00,86,"6,500",80,M,HS,Junior,Brazil
+188,Queena Lee Chin,DB,170.00,65,"8,500",68,M,BU,Freshman,France
+189,Queena Lee Chin,CY,173.74,76,"11,000",72,F,ED,Junior,USA
+190,Queena Lee Chin,SW,167.64,57,"10,000",84,M,BU,Senior,USA
+191,Queena Lee Chin,PK,164.59,60,"11,000",72,M,BU,Junior,Myanmar
+192,Queena Lee Chin,LW,176.00,63,"8,500",79,M,BU,Freshman,Myanmar
+193,Queena Lee Chin,CM,170.00,78,"10,300",68,M,ED,Sophomore,Nigeria
+194,Queena Lee Chin,PD,176.78,64,"6,000",91,F,SE,Junior,Kenya
+195,Queena Lee Chin,LT,180.00,90,"12,500",70,F,HS,Sophomore,Trinidad
+196,Queena Lee Chin,KF,173.74,74,"9,600",75,M,ED,Junior,Morocco
+197,Queena Lee Chin,LD,155.80,80,"8,800",78,F,BU,Junior,USA
+198,Queena Lee Chin,CW,162.00,58,"7,800",83,F,ED,Sophomore,USA
+199,SeungYoung Song,AM,170.25,72.50,"10,000",75,F,BU,Graduate,USA
+200,SeungYoung Song,BH,167.50,63.50,"8,500",80,M,AC,Junior,USA
+201,SeungYoung Song,CK,188.20,86.00,"12,000",70,M,SE,Junior,Malaysia
+202,SeungYoung Song,DS,163.10,54.50,"7,000",85,F,SE,Sophomore,Mexico
+203,SeungYoung Song,EM,180.00,79.00,"9,000",72,M,SE,Senior,USA
+204,SeungYoung Song,FG,173.70,68.00,"11,000",78,F,TH,Junior,South Korea
+205,SeungYoung Song,HI,165.60,59.00,"8,200",78,F,TH,Sophomore,China
+206,SeungYoung Song,JK,182.10,81.50,"9,800",74,F,ED,Junior,China
+207,SeungYoung Song,LM,177.30,70.00,"10,500",76,M,HS,Senior,USA
+208,SeungYoung Song,NO,177.30,52.00,"7,500",87,F,ED,Graduate,Japan
+209,SeungYoung Song,PQ,188.30,88.50,"11,500",71,M,AC,Freshman,China
+210,SeungYoung Song,RS,181.80,77.00,"9,600",79,F,SE,Graduate,USA
+211,SeungYoung Song,TU,167.00,61.00,"8,700",81,F,SE,Junior,Kenya
+212,SeungYoung Song,VW,157.00,56.50,"6,800",90,M,TH,Senior,Nigeria
+213,SeungYoung Song,XY,190.00,90.50,"12,800",69,M,SE,Sophomore,South Korea
+214,SeungYoung Song,YZ,162.00,50.00,"7,300",88,M,TH,Sophomore,Japan
+215,SeungYoung Song,AB,175.00,74.50,"9,200",77,F,ED,Junior,USA
+216,SeungYoung Song,CD,170.00,63.50,"10,200",75,M,BU,Sophomore,China
+217,Josiah Pimentel,DB,170.69,68.04,"12,000",76,F,BU,Junior,Honduras
+218,Josiah Pimentel,TG,173.74,81.65,"13,500",72,M,BU,Sophomore,USA
+219,Josiah Pimentel,PD,167.64,90.72,"10,000",75,F,TH,Senior,Argentina
+220,Josiah Pimentel,ST,164.59,72.57,"11,800",73,F,TH,Junior,Guatemala
+221,Josiah Pimentel,TS,176.78,86.18,"12,700",76,M,TH,Senior,USA
+222,Josiah Pimentel,JM,170.69,81.65,"13,200",75,F,TH,Senior,USA
+223,Josiah Pimentel,GS,176.78,71.67,"12,400",72,M,TH,Junior,USA
+224,Josiah Pimentel,MS,180.57,83.91,"10,000",73,M,TH,Graduate,Trinidad
+225,Josiah Pimentel,HS,173.74,83.01,"9,800",75,F,TH,Sophomore,USA
+226,Josiah Pimentel,SA,170.69,70.3,"13,200",76,M,SE,Senior,Korea
+227,Josiah Pimentel,MC,161.54,71.67,"10,700",74,F,TH,Sophomore,Mexico
+228,Josiah Pimentel,MO,176.78,81.65,"11,200",76,M,TH,Junior,Kenya
+229,Josiah Pimentel,ZR,207.26,102.06,"10,000",78,M,TH,Graduate,USA
+230,Josiah Pimentel,DN,170.69,83.01,"10,600",74,M,TH,Senior,Colombia
+231,Josiah Pimentel,EP,164.59,64.41,"9,600",73,F,BU,Junior,Honduras
+232,Josiah Pimentel,GB,164.59,66.22,"9,100",75,F,BU,Sophomore,Honduras
+233,Josiah Pimentel,SV,161.54,61.69,"9,300",72,F,BU,Junior,Honduras
+234,Josiah Pimentel,RE,176.78,83.01,"12,900",77,M,SE,Sophomore,Japan
+235,Bridget Jaen,CD,160.00,150,"8,000",786,M,BU,Senior,USA
+236,Bridget Jaen,AH,167.00,135,"7,563",89,M,TH,Junior,El Salvador
+237,,,,,,,,,,
+238,,Mean:,171.74,73.10,9297.61,71.36,,,,
+239,,Median:,170.85,70.76,9600.00,70.00,,,,
+240,,Min,61.00,44.00,0.00,0.00,,,,
+241,,Max,208.28,170.18,20000.00,786.00,,,,
+242,,STD,12.90,16.75,3067.94,48.85,,,,
+243,,,,,,,,,,
+244,,,,,,,,,,
+245,,,,,,,,,,
+246,,,,,,,,,,
+247,,,,,,,,,,
+248,,,,,,,,,,
+249,,,,,,,,,,
+250,,,,,,,,,,
+251,,,,,,,,,,
+252,,,,,,,,,,
+253,,,,,,,,,,
+254,,,,,,,,,,
+255,,,,,,,,,,
+256,,,,,,,,,,
+257,,,,,,,,,,
+258,,,,,,,,,,
+259,,,,,,,,,,
+260,,,,,,,,,,
+261,,,,,,,,,,
+262,,,,,,,,,,
+263,,,,,,,,,,
+264,,,,,,,,,,
+265,,,,,,,,,,
+266,,,,,,,,,,
+267,,,,,,,,,,
+268,,,,,,,,,,
+269,,,,,,,,,,
+270,,,,,,,,,,
+271,,,,,,,,,,
+272,,,,,,,,,,
+273,,,,,,,,,,
+274,,,,,,,,,,
+275,,,,,,,,,,
+276,,,,,,,,,,
+277,,,,,,,,,,
+278,,,,,,,,,,
+279,,,,,,,,,,
+280,,,,,,,,,,
+281,,,,,,,,,,
+282,,,,,,,,,,
+283,,,,,,,,,,
+284,,,,,,,,,,
+285,,,,,,,,,,
+286,,,,,,,,,,
+287,,,,,,,,,,
+288,,,,,,,,,,
+289,,,,,,,,,,
+290,,,,,,,,,,
+291,,,,,,,,,,
+292,,,,,,,,,,
+293,,,,,,,,,,
+294,,,,,,,,,,
+295,,,,,,,,,,
+296,,,,,,,,,,
+297,,,,,,,,,,
+298,,,,,,,,,,
+299,,,,,,,,,,
+300,,,,,,,,,,
+301,,,,,,,,,,
+302,,,,,,,,,,
+303,,,,,,,,,,
+304,,,,,,,,,,
+305,,,,,,,,,,
+306,,,,,,,,,,
+307,,,,,,,,,,
+308,,,,,,,,,,
+309,,,,,,,,,,
+310,,,,,,,,,,
+311,,,,,,,,,,
+312,,,,,,,,,,
+313,,,,,,,,,,
+314,,,,,,,,,,
+315,,,,,,,,,,
+316,,,,,,,,,,
+317,,,,,,,,,,
+318,,,,,,,,,,
+319,,,,,,,,,,
+320,,,,,,,,,,
+321,,,,,,,,,,
+322,,,,,,,,,,
+323,,,,,,,,,,
+324,,,,,,,,,,
+325,,,,,,,,,,
+326,,,,,,,,,,
+327,,,,,,,,,,
+328,,,,,,,,,,
+329,,,,,,,,,,
+330,,,,,,,,,,
+331,,,,,,,,,,
+332,,,,,,,,,,
+333,,,,,,,,,,
+334,,,,,,,,,,
+335,,,,,,,,,,
+336,,,,,,,,,,
+337,,,,,,,,,,
+338,,,,,,,,,,
+339,,,,,,,,,,
+340,,,,,,,,,,
+341,,,,,,,,,,
+342,,,,,,,,,,
