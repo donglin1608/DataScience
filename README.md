@@ -20,6 +20,14 @@
 
 ### Data Cleaning/Preparation
 
+- Importing data
+- Joining and Concatenate Table
+- Stacking Columns
+- Formulas
+- Recoding
+- Subsetting and filtering data
+- Log File 
+
 ### Exploratory Data Analysis
 
 EDA involved exploring college student health data to answer key questions , such as: 
