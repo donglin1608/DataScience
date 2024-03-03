@@ -21,6 +21,8 @@
 ### Data Cleaning/Preparation
 
 - Importing data
+      -Web page
+      -PDF
 - Joining and Concatenate Table
 - Stacking Columns
 - Formulas
